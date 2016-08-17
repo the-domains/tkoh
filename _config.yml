@@ -12,9 +12,3 @@ color:
     - '#3A6EA5'
     - '#004E98'
 name: TKOh!
-navigation:
-  - name: >-
-      'Bike to the Future': Design Museum Gent considers a world of two-wheeled
-      design.
-    id: 57fdefa1-2fc9-40b0-a7a0-26fea86dcd0f
-    type: content
