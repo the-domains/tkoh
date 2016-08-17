@@ -6,9 +6,15 @@ color:
   saturation: 0.18106788024306297
   rhythmicContrast: 0.7534494821447879
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: TKOh!
+navigation:
+  - name: >-
+      'Bike to the Future': Design Museum Gent considers a world of two-wheeled
+      design.
+    id: 57fdefa1-2fc9-40b0-a7a0-26fea86dcd0f
+    type: content
